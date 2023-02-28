@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T14:36:22.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="kgJl_AnCpfUHQY9b71fd" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T14:38:42.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="jqAYODRlPPSpLCeYEwXE" version="20.8.23" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="651" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="917" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-2" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="SpABummtjWUhVYphWMUN-2" value="Usuário" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=17;spacingLeft=26;" vertex="1" parent="1">
           <mxGeometry x="740" y="124.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
