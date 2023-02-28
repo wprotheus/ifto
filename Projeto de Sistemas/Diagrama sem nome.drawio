@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T14:38:42.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="jqAYODRlPPSpLCeYEwXE" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T14:41:33.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="fwt4z3TLujiJ1MwPj1jZ" version="20.8.23" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="917" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="SpABummtjWUhVYphWMUN-1" value="Portal&lt;br style=&quot;font-size: 26px;&quot;&gt;Cinema" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png;whiteSpace=wrap;fontSize=26;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="170" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=17;curved=1;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-25" value="Opiniões" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-10">
@@ -15,11 +15,10 @@
             <mxPoint x="28" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=17;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="120" />
-            </Array>
+            <mxPoint x="740" y="126.50000000000011" as="sourcePoint" />
+            <mxPoint x="520" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-24" value="Estúdios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-16">
@@ -27,7 +26,7 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;curved=1;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-21" value="Diretores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-17">
@@ -35,11 +34,10 @@
             <mxPoint x="33" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=17;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="740" y="209" />
-            </Array>
+            <mxPoint x="740" y="203.5" as="sourcePoint" />
+            <mxPoint x="520" y="208.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-22" value="Atores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-18">
@@ -47,7 +45,7 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=17;curved=1;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-2" target="SpABummtjWUhVYphWMUN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-23" value="Filmes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-19">
@@ -58,7 +56,7 @@
         <mxCell id="SpABummtjWUhVYphWMUN-2" value="Usuário" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontSize=17;spacingLeft=26;" vertex="1" parent="1">
           <mxGeometry x="740" y="124.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;curved=1;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-8" value="Opinião sobre o Filme" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-4">
@@ -66,7 +64,7 @@
             <mxPoint x="29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-7" value="Nome do Filme" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-5">
@@ -74,7 +72,7 @@
             <mxPoint x="61" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpABummtjWUhVYphWMUN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
+        <mxCell id="SpABummtjWUhVYphWMUN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SpABummtjWUhVYphWMUN-3" target="SpABummtjWUhVYphWMUN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpABummtjWUhVYphWMUN-9" value="Cadastro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="SpABummtjWUhVYphWMUN-6">
