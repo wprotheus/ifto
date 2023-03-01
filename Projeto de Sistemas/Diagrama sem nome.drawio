@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T03:04:56.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="xnezBxYNmO2J1POTHSBB" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-01T03:11:24.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="taQJmR8SC9yjcExyu9-7" version="20.8.23" type="github" pages="4">
   <diagram name="Diagrama de Contexto" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1009" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="avVZCtwHP6wY2JIyEsjV" name="Diagrama de Classe">
-    <mxGraphModel dx="1009" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1441" dy="1321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,6 +279,36 @@
               <mxPoint x="540" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-49" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="469" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-50" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1022" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-51" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="685" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-52" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="204" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-53" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="722" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-54" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="721" y="328" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-55" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="895" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-56" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="468" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-57" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="543" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="nzoP5VkSB5ButYYWKEdg-58" value="1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;fontSize=17;labelBorderColor=default;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="601" y="398" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
