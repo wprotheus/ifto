@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T02:23:34.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="cfh0OWH9e7GGNJBX65UA" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-01T02:34:04.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="vyHHR7Kcw_-uZcG2mF_t" version="20.8.23" type="github" pages="4">
   <diagram name="Diagrama de Contexto" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1009" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -141,6 +141,14 @@
         <mxCell id="WlD_JZj9c6V_gBx_AX4r-3" value="Filmes" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="120" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="avVZCtwHP6wY2JIyEsjV" name="Diagrama de Classe">
+    <mxGraphModel dx="1009" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
