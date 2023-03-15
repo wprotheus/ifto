@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Pbw 1 - Trabalho 01</title>
+     <style>
+         label {
+             display: block;
+         }
+
+         fieldset {
+             margin: 2em 1em;
+         }
+     </style>
+</head>
+
+<body>
+<h1>Prova</h1>
+<form action="resultado">
+     <label>Aluno <input type="text" placeholder="Infome seu nome" name="nome"></label>
+     <br><br>
+     <fieldset>
+          <legend>01) Quais dos seguintes animais são mamíferos</legend>
+          <select size="8" multiple name="mamiferos">
+               <option>Tubarão</option>
+               <option>Golfinho</option>
+               <option>Tartaruga</option>
+               <option>Onça</option>
+               <option>Sapo</option>
+               <option>Largato</option>
+               <option>Mico Leão</option>
+               <option>Garça</option>
+          </select>
+     </fieldset>
+     <fieldset name="software">
+          <legend>02) Selecione todos os itens que sejam software</legend>
+          <label><input type="checkbox" name="software" value="so">Sistema Operacional</label>
+          <label><input type="checkbox" name="software" value="ram">Memória RAM</label>
+          <label><input type="checkbox" name="software" value="gpu">GPU</label>
+          <label><input type="checkbox" name="software" value="planilha">Planilha Eletrônica</label>
+          <label><input type="checkbox" name="software" value="compilador">Compilador</label>
+     </fieldset>
+     <fieldset>
+          <legend>03) Em qual data iniciou a Primeira Guerra Mundial</legend>
+          <input type="date" name="ww1">
+     </fieldset>
+     <fieldset>
+          <legend>04) Qual dos seguintes metais é líquido em temperatura ambiente</legend>
+          <label><input type="radio" name="metal" value="cobre">Cobre</label>
+          <label><input type="radio" name="metal" value="ferro">Ferro</label>
+          <label><input type="radio" name="metal" value="mercurio">Mercúrio</label>
+          <label><input type="radio" name="metal" value="ouro">Ouro</label>
+     </fieldset>
+     <fieldset>
+          <legend>05) Qual o resultado da seguinte expressão: 2+4*5-3</legend>
+          <input type="number" name="expressao">
+     </fieldset>
+     <input type="submit" value="Enviar">
+</form>
+</body>
+
+</html>
